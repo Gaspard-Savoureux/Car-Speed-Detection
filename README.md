@@ -1,6 +1,6 @@
 # Car-Speed-Detection
 
-## Remerciment à / Thanks to : Greg Tinkers (Greg Barbu)
+## Remerciement à / Thanks to : Greg Tinkers (Greg Barbu)
 
 Full program details at: https://gregtinkers.wordpress.com/2016/03/25/car-speed-detector/
 
